@@ -18,4 +18,4 @@ Sokat hallottam a környezetemből, hogy *"jaj JAVA"*, de így hogy érdeklődni
 
   ## Tartalom:
 
-  - Adattípusok
+  - 1. nap (Adattípusok, adattárolás, iterátor)
