@@ -18,4 +18,4 @@ Sokat hallottam a környezetemből, hogy *"jaj JAVA"*, de így hogy érdeklődni
 
   ## Tartalom:
 
-  - 1. nap (Adattípusok, adattárolás, iterátor)
+[1. nap (Adattípusok, adattárolás, iterátor)](https://github.com/bencso/my-java-learning/blob/main/notes/1_day.md)
