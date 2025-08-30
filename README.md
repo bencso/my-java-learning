@@ -1,21 +1,43 @@
-# Java:
+# Java tanulás (kihívás?)
 
-Úgy gondoltam, hogy it az idő arra, hogy megtanuljam, a `Java` nyelvet használni. Ezelött tanultam a `C#`-ot az iskolában, ezáltal úgy gondolom, nem lesz olyan nehéz dolgom.
+Úgy döntöttem, itt az ideje, hogy belevágjak a **Java** tanulásába.  
+Korábban az iskolában **C#-ot** tanultam, így olvasgatás alapján úgy érzem, nem lesz olyan nagy kihívás a **Java** tanulása.  
 
-Elsősorban, a [W3Schools-ot](https://www.w3schools.com/) fogom átpörgetni, és szeretném, azt hogy több projekten keresztül tudjam megtanulni, és elsajátítani ezt a nyelvet.
+Elsősorban a [W3Schools](https://www.w3schools.com/) tutorial részét fogom végigkövetni, és szeretném több kisebb projekttel is elsajátítani a nyelvet.  
 
-## Őszintén:
-Sokat hallottam a környezetemből, hogy *"jaj JAVA"*, de így hogy érdeklődni kezdtem utána, olvasgattam, azt vettem észre, hogy ez hasonlít az általam tanult `C#`-ba valamelyest, persze mind a kettő OOP nyelv... Javascriptet nyilván tudok alapszinten, így úgy gondolom, hogy **autodidakta módon** is képes vagyok a `Java` elsajátítására.
+## Őszintén
 
-# Tanulási módszerem:
+Sokszor hallottam, hogy *“jaj, Java!”*, de ahogy utánanéztem, és összehasonlítottam a **C#**-val, úgy tűnik, mégis könnyebben tanulható, mint amire számítottam.  
 
-- Most jelenleg elkezdtem átolvasgatni a [W3Schools-on található Java tutoriált](https://www.w3schools.com/java) , eddig nem nagyon találtam nagy különbséget a `C#` és a `Java` között, de persze, biztos van. Ezenfelül szeretném bevetni a ChatGPT (vagy más LLM) segítségét is, hogy még hatékonyabb legyek.
+## Célom
 
-- *Gyakorlási feladatoknak* azt gondoltam, hogy amit az iskolában használtunk érettségi feladatokat is, illetve [CodeWarson](https://www.codewars.com/dashboard) található feladatokat fogom használni, vagy amit a ChatGPT ajánl.
+Szeretném később a projektjeimben is aktívan használni, akár napi szinten. Olvasgatás alapján még mindig rengeteg területen alkalmazzák, így hosszú távon is hasznos tudás lehet.  
 
-- Illetve már a kezdetektől úgy gondolom, hogy majdnem minden feladatot szeretném `OOP`-nak megfelelően megvalósítani.
+## Dilemma
 
+A szívem viszont nagyon húz a webfejlesztés és a **JavaScript** felé is. Nem tudom még eldönteni, melyik nyelvet tanuljam komolyabban. A szoftverfejlesztés is vonzó számomra, de a webfejlesztés közelebb áll hozzám.  
 
-# Napok:
+Ugyanakkor junior frontend pozíciókat nehezebb találni, míg Java junior állásból több van, ami részben a mostani Java tanulásomat is motiválja...  
+
+---
+
+# Tanulási módszerem
+
+- Jelenleg a [W3Schools Java tutoriálját](https://www.w3schools.com/java) olvasgatom. Egyelőre nem találok nagy különbséget a **C#**-hoz képest, de biztosan vannak benne finomságok.  
+- Szeretném használni a **ChatGPT-t** (vagy más LLM-et) is, hogy a tanulás még hatékonyabb legyen.  
+
+**Gyakorlási feladatok:**  
+- Iskolában tanult érettségi feladatok  
+- [CodeWars](https://www.codewars.com) feladatok  
+- ChatGPT által ajánlott gyakorló feladatok  
+
+Már a kezdetektől igyekszem minden feladatot **OOP programozás elveivel** megvalósítani.  
+
+---
+
+# Napok
+
 ## [1. nap (Adattípusok, adattárolás, iterátor)](https://github.com/bencso/my-java-learning/blob/main/notes/1_day.md)
-> **Gyakorlás után:** Tudom, ne igyak előre a medvebőrére, meg ilyenek. De azt kell mondjam, hogy úgy látom, nem is olyan rossz ez a Java..., és talán tényleg C# után kicsit könnyebb lesz a tanulása. Most elég motivált lettem ettől, szóval alig várom, hogy tanulhassam tovább... :)
+
+> **Gyakorlás után:** Még óvatos vagyok, de azt kell mondjam, a Java nem is olyan rossz?!  
+> C# után talán kicsit könnyebb a tanulása. Most motivált lettem, szóval várom, hogy folytathassam tanulását!
