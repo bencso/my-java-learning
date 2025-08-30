@@ -17,5 +17,5 @@ Sokat hallottam a környezetemből, hogy *"jaj JAVA"*, de így hogy érdeklődni
 
 
 # Napok:
-- [1. nap (Adattípusok, adattárolás, iterátor)](https://github.com/bencso/my-java-learning/blob/main/notes/1_day.md)
-  - **Gyakorlás után:** Tudom, ne igyak előre a medvebőrére, meg ilyenek. De azt kell mondjam, hogy úgy látom, nem is olyan rossz ez a Java..., és talán tényleg C# után kicsit könnyebb lesz a tanulása. Most elég motivált lettem ettől, szóval alig várom, hogy tanulhassam tovább... :)
+## [1. nap (Adattípusok, adattárolás, iterátor)](https://github.com/bencso/my-java-learning/blob/main/notes/1_day.md)
+> **Gyakorlás után:** Tudom, ne igyak előre a medvebőrére, meg ilyenek. De azt kell mondjam, hogy úgy látom, nem is olyan rossz ez a Java..., és talán tényleg C# után kicsit könnyebb lesz a tanulása. Most elég motivált lettem ettől, szóval alig várom, hogy tanulhassam tovább... :)
