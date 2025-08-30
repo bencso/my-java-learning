@@ -9,3 +9,6 @@ Ami lejött, hogy az adattárolóknál például egy olyan rendszer van, hogy mi
 Ezenfelül hogy nincs sok különbség a `C#`, illetve a `JS` közötti adattípusok között és a `Java` között.
 
 Most még egy kis gyakorlást fogok kérni a chatGPT-től, és azt is hozzáteszem.
+
+# A gyakorlás után
+Tudom, ne igyak előre a medvebőrére, meg ilyenek. De azt kell mondjam, hogy úgy látom, nem is olyan rossz ez a `Java`..., és talán tényleg `C#` után kicsit könnyebb lesz a tanulása. Most elég motivált lettem ettől, szóval alig várom, hogy tanulhassam tovább... :) 
