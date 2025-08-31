@@ -51,4 +51,4 @@ Már a kezdetektől igyekszem minden feladatot **OOP programozás elveivel** meg
 
 > Továbbra is azt gondolom, hogy nem néz ki rossznak ez a nyelv..., eddig egész jól tudom használni azt a tudást, amit a **C#**-nál tanultam. Nem voltak eddig nehézségeim vele, bár nyilván ezek feladatok még nem olyan komplexek.
 
-> Viszont ami lejött, hogy a Java-nal tényleg sok Error-t kell lekezelni, ami biztos megszokás kérdése, és utána már magadtól írod az Exception-öket.
+> Viszont ami lejött, hogy a **Java**-nal tényleg sok Error-t kell lekezelni, ami biztos megszokás kérdése, és utána már magadtól írod az Exception-öket.
