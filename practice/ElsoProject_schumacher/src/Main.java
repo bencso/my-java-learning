@@ -51,14 +51,14 @@ public class Main {
 
     public static void FileWriter() {
         File file = new File("src/schumacher.csv");
-        Scanner fileReader;
+
 
         try {
-            fileReader = new Scanner(file);
+            Scanner fileReader = new Scanner(file);
+        fileReader.nextLine();
+        while (fileReader.hasNextLine()) grandprixes.add(new Grandprix(fileReader.nextLine()));
         } catch (FileNotFoundException e) {
             throw new RuntimeException(e);
         }
-        fileReader.nextLine();
-        while (fileReader.hasNextLine()) grandprixes.add(new Grandprix(fileReader.nextLine()));
     }
 }
