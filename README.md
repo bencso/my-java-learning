@@ -27,7 +27,7 @@ Ugyanakkor junior frontend pozíciókat nehezebb találni, míg Java junior áll
 - Szeretném használni a **ChatGPT-t** (vagy más LLM-et) is, hogy a tanulás még hatékonyabb legyen.  
 
 **Gyakorlási feladatok:**  
-- Iskolában tanult érettségi feladatok  
+- Iskolában is használt érettségi feladatok  ([Infojegyzet](https://infojegyzet.hu/vizsgafeladatok/))
 - [CodeWars](https://www.codewars.com) feladatok  
 - ChatGPT által ajánlott gyakorló feladatok  
 
@@ -41,3 +41,10 @@ Már a kezdetektől igyekszem minden feladatot **OOP programozás elveivel** meg
 
 > **Gyakorlás után:** Nem szeretnék előre inni a medvebőrére, de azt kell mondjam, a Java nem is olyan rossz?!  
 > C# után talán kicsit könnyebb a tanulása. Most motivált lettem, szóval várom, hogy folytathassam tanulását!
+
+## 2. nap (Gyakorlás, W3Schools végigolvasása)
+
+> Ma két feladato csináltam meg az infojegyzetről:
+> Az első feladat [Schumacher](https://github.com/bencso/my-java-learning/blob/main/practice/ElsoProject_schumacher) c. feladat volt, a második [Nobel díjakról](https://github.com/bencso/my-java-learning/blob/main/practice/MasodikProject_nobel) szólt.
+> Továbbra is azt gondolom, hogy nem néz ki rossznak ez a nyelv..., eddig egész jól tudom használni azt a tudást, amit a **C#**-nál tanultam. Nem voltak eddig nehézségeim vele, bár nyilván ezek feladatok még nem olyan komplexek.
+> Viszont ami lejött, hogy a Java-nal tényleg sok Error-t kell lekezelni, ami biztos megszokás kérdése, és utána már magadtól írod az Exception-öket.
