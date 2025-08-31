@@ -44,7 +44,7 @@ Már a kezdetektől igyekszem minden feladatot **OOP programozás elveivel** meg
 
 ## 2. nap (Gyakorlás, W3Schools végigolvasása)
 
-> Ma két feladato csináltam meg az infojegyzetről:
+> Ma két feladatot csináltam meg az infojegyzetről:
 > Az első feladat [Schumacher](https://github.com/bencso/my-java-learning/blob/main/practice/ElsoProject_schumacher) c. feladat volt, a második [Nobel díjakról](https://github.com/bencso/my-java-learning/blob/main/practice/MasodikProject_nobel) szólt.
 > Továbbra is azt gondolom, hogy nem néz ki rossznak ez a nyelv..., eddig egész jól tudom használni azt a tudást, amit a **C#**-nál tanultam. Nem voltak eddig nehézségeim vele, bár nyilván ezek feladatok még nem olyan komplexek.
 > Viszont ami lejött, hogy a Java-nal tényleg sok Error-t kell lekezelni, ami biztos megszokás kérdése, és utána már magadtól írod az Exception-öket.
