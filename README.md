@@ -39,5 +39,5 @@ Már a kezdetektől igyekszem minden feladatot **OOP programozás elveivel** meg
 
 ## [1. nap (Adattípusok, adattárolás, iterátor)](https://github.com/bencso/my-java-learning/blob/main/notes/1_day.md)
 
-> **Gyakorlás után:** Még óvatos vagyok, de azt kell mondjam, a Java nem is olyan rossz?!  
+> **Gyakorlás után:** Nem szeretnék előre inni a medvebőrére, de azt kell mondjam, a Java nem is olyan rossz?!  
 > C# után talán kicsit könnyebb a tanulása. Most motivált lettem, szóval várom, hogy folytathassam tanulását!
