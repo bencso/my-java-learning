@@ -1,39 +1,19 @@
 import java.time.Year;
-enum NobelType {
-    FIZIKAI,
-    KEMIAI,
-    ORVOSI,
-    IRODALMI,
-    BEKE,
-    KOZGADASAGTANI
-}
+
 
 public class Nobel {
     private Year evszam;
-    private NobelType nobelType;
+    private String nobelType;
     private String lastName;
-    private  String firstName;
+    private String firstName;
 
-    public Nobel(String row){
+    public Nobel(String row) {
         String[] rowPieces = row.split(";");
         setEvszam(Year.parse(rowPieces[0]));
-        setNobelType(nobelTypeSetter(rowPieces[1]));
+        setNobelType(rowPieces[1]);
         setLastName(rowPieces[2]);
-        setFirstName(rowPieces[3]);
-    }
-
-    protected NobelType nobelTypeSetter(String type){
-        NobelType returnValue;
-        switch (type.toLowerCase()){
-            case "irodalmi": returnValue = NobelType.IRODALMI;
-            case "fizikai": returnValue = NobelType.FIZIKAI;
-            case "kémiai": returnValue = NobelType.KEMIAI;
-            case "orvosi": returnValue = NobelType.ORVOSI;
-            case "béke": returnValue = NobelType.BEKE;
-            case "közgazdaságtani": returnValue = NobelType.KOZGADASAGTANI;
-            default: returnValue = NobelType.IRODALMI;
-        };
-        return  returnValue;
+        if (rowPieces.length == 4) setFirstName(rowPieces[3]);
+        else setFirstName("");
     }
 
     public Year getEvszam() {
@@ -44,11 +24,11 @@ public class Nobel {
         this.evszam = evszam;
     }
 
-    public NobelType getNobelType() {
+    public String getNobelType() {
         return nobelType;
     }
 
-    public void setNobelType(NobelType nobelType) {
+    public void setNobelType(String nobelType) {
         this.nobelType = nobelType;
     }
 
@@ -66,5 +46,9 @@ public class Nobel {
 
     public void setFirstName(String firstName) {
         this.firstName = firstName;
+    }
+
+    public String getDoctorNobels(){
+        return this.evszam+": "+this.lastName+" "+this.firstName+"\n";
     }
 }
