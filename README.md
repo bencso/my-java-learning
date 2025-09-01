@@ -52,3 +52,7 @@ Már a kezdetektől igyekszem minden feladatot **OOP programozás elveivel** meg
 > Továbbra is azt gondolom, hogy nem néz ki rossznak ez a nyelv..., eddig egész jól tudom használni azt a tudást, amit a **C#**-nál tanultam. Nem voltak eddig nehézségeim vele, bár nyilván ezek feladatok még nem olyan komplexek.
 
 > Viszont ami lejött, hogy a **Java**-nal tényleg sok Error-t kell lekezelni, ami biztos megszokás kérdése, és utána már magadtól írod az Exception-öket.
+
+
+## 3. nap (Gyakorlás, [Java gyakorlás oldal](https://okt.inf.szte.hu/prog1/gyakorlat/gyakorlat/java_elso_lepesek/) elkezdése)
+> Ma is csak gyakorlás mellett döntöttem, viszont ma egy új oldalt találtam, és most ezt kezdem el követni: [https://okt.inf.szte.hu/prog1/gyakorlat/gyakorlat/java_elso_lepesek/](https://okt.inf.szte.hu/prog1/gyakorlat/gyakorlat/java_elso_lepesek/)
