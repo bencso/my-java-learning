@@ -54,5 +54,5 @@ Már a kezdetektől igyekszem minden feladatot **OOP programozás elveivel** meg
 > Viszont ami lejött, hogy a **Java**-nal tényleg sok Error-t kell lekezelni, ami biztos megszokás kérdése, és utána már magadtól írod az Exception-öket.
 
 
-## 3. nap (Gyakorlás, [Java gyakorlás oldal](https://okt.inf.szte.hu/prog1/gyakorlat/gyakorlat/java_elso_lepesek/) elkezdése)
-> Ma is csak gyakorlás mellett döntöttem, viszont ma egy új oldalt találtam, és most ezt kezdem el követni: [https://okt.inf.szte.hu/prog1/gyakorlat/gyakorlat/java_elso_lepesek/](https://okt.inf.szte.hu/prog1/gyakorlat/gyakorlat/java_elso_lepesek/)
+## 3. nap (Gyakorlás, [Java gyakorlás a Szegedi Tudományegyetem oldalán](https://okt.inf.szte.hu/prog1/gyakorlat/gyakorlat/java_elso_lepesek/) elkezdése)
+> Ma is csak gyakorlás mellett döntöttem, viszont ma egy új oldalt találtam, ami a Szegedi Tudományegyetem oldala, és most ezt kezdem el követni: [https://okt.inf.szte.hu/prog1/gyakorlat/gyakorlat/java_elso_lepesek/](https://okt.inf.szte.hu/prog1/gyakorlat/gyakorlat/java_elso_lepesek/)
