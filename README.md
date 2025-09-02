@@ -57,3 +57,6 @@ Már a kezdetektől igyekszem minden feladatot **OOP programozás elveivel** meg
 ## 3. nap (Gyakorlás, [Java gyakorlás a Szegedi Tudományegyetem oldalán](https://okt.inf.szte.hu/prog1/gyakorlat/gyakorlat/java_elso_lepesek/) elkezdése)
 > Ma is csak gyakorlás mellett döntöttem, viszont ma egy új oldalt találtam, ami a Szegedi Tudományegyetem oldala, és most ezt kezdem el követni: [https://okt.inf.szte.hu/prog1/gyakorlat/gyakorlat/java_elso_lepesek/](https://okt.inf.szte.hu/prog1/gyakorlat/gyakorlat/java_elso_lepesek/)
 > Mai nap az oldalon lévő 4. gyakorlatot olvastam végig, nagyon érdekes anyag volt, remélhetőleg meg is marad bennem :)
+
+## 4. nap ([Java gyakorlás a Szegedi Tudományegyetem oldalán](https://okt.inf.szte.hu/prog1/gyakorlat/gyakorlat/abstract_interface/) folytatása)
+> Mai nap kicsit pihenni szerettem volna, így csak olvasgattam a gyakorlat oldalt, illetve codewarson csináltam 2-3 feladatot.
