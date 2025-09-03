@@ -60,3 +60,5 @@ Már a kezdetektől igyekszem minden feladatot **OOP programozás elveivel** meg
 
 ## 4. nap ([Java gyakorlás a Szegedi Tudományegyetem oldal](https://okt.inf.szte.hu/prog1/gyakorlat/gyakorlat/abstract_interface/) folytatása)
 > Mai nap kicsit pihenni szerettem volna, így csak olvasgattam a gyakorlat oldalt, illetve codewarson csináltam 2-3 feladatot.
+
+## 5. nap (Streamek megértése)
