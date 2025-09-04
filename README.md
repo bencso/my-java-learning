@@ -62,3 +62,5 @@ Már a kezdetektől igyekszem minden feladatot **OOP programozás elveivel** meg
 > Mai nap kicsit pihenni szerettem volna, így csak olvasgattam a gyakorlat oldalt, illetve codewarson csináltam 2-3 feladatot.
 
 ## 5. nap (Streamek megértése)
+
+## 6. nap ([7. gyakorlat a SZTE oldalán](https://okt.inf.szte.hu/prog1/gyakorlat/gyakorlat/gyak6/))
