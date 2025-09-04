@@ -1,8 +1,13 @@
+package ital;
+
+import java.time.LocalDate;
+import java.util.Date;
+
 public class Bor {
     private String fajta;
     private Integer evjarat;
 
-    Bor(String fajta, String evjarat) throws Exception {
+    public Bor(String fajta, String evjarat) throws Exception {
         setFajta(fajta);
         setEvjarat(Integer.parseInt(evjarat));
     }
@@ -13,15 +18,15 @@ public class Bor {
 
     @Override
     public String toString(){
-        return String.format("Ez egy bor, ami%s, melynek évjárata: %d.", this.fajta, this.evjarat);
+        return String.format("Ez egy bor, ami %s, melynek évjárata: %d.", this.fajta, this.evjarat);
     }
 
     public void setEvjarat(Integer inputEvjarat) throws Exception {
-        if(0<inputEvjarat){
+        if(0<inputEvjarat &&  inputEvjarat <= LocalDate.now().getYear()){
             this.evjarat = inputEvjarat;
         }
         else{
-            throw new Exception("Az évjárat csak pozitív szám lehet!");
+            throw new RuntimeException("Csak érvényes dátumot irhat be");
         }
     }
 
