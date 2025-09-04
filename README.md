@@ -64,3 +64,5 @@ Már a kezdetektől igyekszem minden feladatot **OOP programozás elveivel** meg
 ## 5. nap (Streamek megértése)
 
 ## 6. nap ([7. gyakorlat a SZTE oldalán](https://okt.inf.szte.hu/prog1/gyakorlat/gyakorlat/gyak6/))
+> Egy nagyon jó OOP gyakorló feladat volt, amiket eddig tanultam ezen az oldalon, azt átfogóan
+> A megoldásom [itt](https://github.com/bencso/my-java-learning/tree/main/practice/hetedikGyakorlat) található meg
