@@ -1,4 +1,4 @@
-# Java tanulás (kihívás?)
+# Java tanulás
 
 Úgy döntöttem, itt az ideje, hogy belevágjak a **Java** tanulásába.  
 Korábban az iskolában **C#-ot** tanultam, így olvasgatás alapján úgy érzem, nem lesz olyan nagy kihívás a **Java** tanulása.  
